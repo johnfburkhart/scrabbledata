@@ -1,3 +1,4 @@
+import pandas as pd
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 
@@ -14,11 +15,13 @@ meta_data = {
     "PlayerTwo": [], 
     "Dictionary":[],
     "ScorePlayerOne":[],
-    "ScorePlayerTwo":[]
+    "ScorePlayerTwo":[],
+    "NumTurns":[]
 }
 
 driver = webdriver.Firefox()
 
+# Skip to the end of the game
 def last_anchor() -> None:
     # Click to last game
     final_anchor_text = "final"
@@ -27,7 +30,7 @@ def last_anchor() -> None:
 
     return None
 
-
+# Extract the name and final score of players in a game
 def names_score() -> tuple:
 
     # Select 'situation table' and all rows from that table
@@ -66,16 +69,43 @@ def get_dictionary() -> str:
     return(b_text)
 
 
-for game in games[:3]:
+def get_num_turns() -> str:
+    # Click to last game
+    try:
+        final_anchor_text = "final"
+        final_anchor = driver.find_element(By.XPATH, f"//a[text()='{final_anchor_text}']")
+        previous_anchor = final_anchor.find_element(By.XPATH, "preceding-sibling::a[1]")
+        num_turns = previous_anchor.text
+
+    except Exception as e:
+        print(f'An error occured {e}')
+
+    return(num_turns)
+
+
+
+for game in games[:10]:
     driver.get(game)
     last_anchor()
+
+    # Insert names and score
     names, scores = names_score()
-    dictionary_type = get_dictionary()
-    meta_data["Dictionary"].append(dictionary_type)
     meta_data["PlayerOne"].append(names[0])
     meta_data["PlayerTwo"].append(names[1])
     meta_data["ScorePlayerOne"].append(scores[0])
     meta_data["ScorePlayerTwo"].append(scores[1])
+
+    # Insert dictionary type 
+    dictionary_type = get_dictionary()
+    meta_data["Dictionary"].append(dictionary_type)
+
+    # Insert num turns
+    meta_data["NumTurns"].append(get_num_turns())
+
+    
+
+data = pd.DataFrame(meta_data)
+data.to_csv("games_metadata.csv", index = False)
 
 # Meta data fields
 # identifer: self explanatory
