@@ -1,11 +1,11 @@
-PlayerOne,PlayerTwo,Dictionary,ScorePlayerOne,ScorePlayerTwo,NumTurns
-Enoch Nwai,DOkosimi Oluwatimilehin,CSW21,515,450,24
-DOkosimi Oluwatimilehin,Enoch Nwai,CSW21,479,402,27
-Enoch Nwai,Dokosimi Oluwatimilehin,CSW21,447,453,24
-DOkosimi Oluwatimilehin,Enoch Nwai,CSW21,413,482,24
-Enoch Nwai,DOkosimi Oluwatimilehin,CSW21,443,343,23
-DOkosimi Oluwatimilehin,Enoch Nwai,CSW21,426,383,25
-Enoch Nwai,DOkosimi Oluwatimilehin,CSW21,526,434,23
-DOkosimi Oluwatimilehin,Enoch Nwai,CSW21,519,419,27
-Enoch Nwai,DOkosimi Oluwatimilehin,CSW21,390,472,27
-DOkosimi Oluwatimilehin,Enoch Nwai,CSW21,494,390,23
+PlayerOne,PlayerTwo,Dictionary,ScorePlayerOne,ScorePlayerTwo,NumTurns,MaxScore,MinScore
+Enoch Nwai,DOkosimi Oluwatimilehin,CSW21,515,450,24,89,4
+DOkosimi Oluwatimilehin,Enoch Nwai,CSW21,479,402,27,111,0
+Enoch Nwai,Dokosimi Oluwatimilehin,CSW21,447,453,24,90,2
+DOkosimi Oluwatimilehin,Enoch Nwai,CSW21,413,482,24,84,20
+Enoch Nwai,DOkosimi Oluwatimilehin,CSW21,443,343,23,98,8
+DOkosimi Oluwatimilehin,Enoch Nwai,CSW21,426,383,25,85,0
+Enoch Nwai,DOkosimi Oluwatimilehin,CSW21,526,434,23,99,0
+DOkosimi Oluwatimilehin,Enoch Nwai,CSW21,519,419,27,90,2
+Enoch Nwai,DOkosimi Oluwatimilehin,CSW21,390,472,27,88,0
+DOkosimi Oluwatimilehin,Enoch Nwai,CSW21,494,390,23,95,9

@@ -10,13 +10,16 @@ with open("game_list.txt", 'r') as f:
         games.append(line)
     f.close()
 
+# Dictionary for data
 meta_data = {
     "PlayerOne": [],
     "PlayerTwo": [], 
     "Dictionary":[],
     "ScorePlayerOne":[],
     "ScorePlayerTwo":[],
-    "NumTurns":[]
+    "NumTurns":[],
+    "MaxScore":[],
+    "MinScore": []
 }
 
 driver = webdriver.Firefox()
@@ -82,7 +85,43 @@ def get_num_turns() -> str:
 
     return(num_turns)
 
+# Extract scores from 'movessofar' list
+def score_extracter(moves_list) -> list[int]:
+    scores = []
+    for move in moves_list:
+        if move != '': 
+            if move[0] == "+":
+                scores.append(int(move[1:]))
+    return scores
 
+def get_scores() -> list[int]:
+    last_anchor()
+    # Select 'movessofar' div
+    div = driver.find_element(By.CLASS_NAME, "movessofar")
+    # Find table within moves div
+    table = div.find_element(By.TAG_NAME, 'table')
+    rows = table.find_elements(By.TAG_NAME, 'tr')
+
+    cleaned_scores = []
+    for row in rows:
+        cells = row.find_elements(By.TAG_NAME, 'td')
+        cell_text = [cell.text for cell in cells]
+        game_scores = score_extracter(cell_text)
+        for turn in game_scores:
+            cleaned_scores.append(turn)
+    
+    return(cleaned_scores) 
+
+
+# Get the maximum scoring play 
+def get_max_score() -> int:
+    # Get all score
+    scores = get_scores()
+    return(max(scores))
+
+def get_min_score() -> int:
+    scores = get_scores()
+    return(min(scores))
 
 for game in games[:10]:
     driver.get(game)
@@ -102,19 +141,19 @@ for game in games[:10]:
     # Insert num turns
     meta_data["NumTurns"].append(get_num_turns())
 
-    
+    # Insert max score
+    meta_data["MaxScore"].append(get_max_score())
+
+    # Insert min score
+    meta_data["MinScore"].append(get_min_score())
+
+
 
 data = pd.DataFrame(meta_data)
 data.to_csv("games_metadata.csv", index = False)
 
 # Meta data fields
 # identifer: self explanatory
-# Player 1 name: player who played first
-# player 2 name: player who played second
-# dictionary type: nwlxx or cswxx
-# num turns: number of plays
-# score player 1: player 1's score
-# score player 2: 
 # mean play: average score of each play
 # min play: lowest point play
 # max player: yep
