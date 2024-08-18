@@ -66,6 +66,6 @@ def game_scraper(num_games: int) -> list[str]:
         driver.quit()
 
 if __name__ == "__main__":
-    num_games = 202  # Set the desired number of games to scrape
+    num_games = 1000  # Set the desired number of games to scrape
     game_links = game_scraper(num_games)
     print(f"Scraped {len(game_links)} game links.")

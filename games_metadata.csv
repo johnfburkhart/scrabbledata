@@ -1,8 +1,40 @@
 PlayerOne,PlayerTwo,Dictionary,ScorePlayerOne,ScorePlayerTwo,NumTurns,MaxScore,MinScore,MeanScore
+Toh Weibin,Ryan Wee,CSW21,442,467,27,95,5,33.67
+Ryan Wee,Tony Sim,CSW21,520,368,26,86,0,34.15
+Ryan Wee,Rajesh,CSW21,565,394,34,104,0,35.1
+Ryan Wee,Poh Ying Ming,CSW21,393,399,25,84,5,31.68
+Matthew O'Connor,Justin Morris,CSW21,378,305,29,45,0,23.55
+Juraj Pivovarov,Kenji Matsumoto,WOW24,276,486,24,82,0,31.75
+Kenji Matsumoto,Jim Sherrill,WOW24,449,394,27,98,2,31.22
+strataji,BestBot,NWL23,440,383,28,91,0,29.39
+Barbara Bultz,Josh Sokol,NWL23,355,444,27,76,6,29.59
+Steve Perry,Brian Po,CSW21,466,484,23,89,7,41.3
+Brian Po,Chris Finlay,CSW21,506,297,25,80,4,32.12
+Brian Po,Gary Oliver,CSW21,540,424,26,86,0,37.08
+Andrew Eames,Brian Po,CSW21,342,466,27,77,0,29.93
+Brian Po,Jack Moran,CSW21,455,457,25,80,2,36.48
+Nuala O'Rourke,Brian Po,CSW21,439,401,25,96,0,33.6
+Brian Po,Rick Blakeway,CSW21,469,390,25,68,2,34.36
+Brian Po,Rick Blakeway,CSW21,443,430,26,83,0,33.58
+Rick Blakeway,Brian Po,CSW21,372,355,31,90,5,25.83
+Brian Po,Jack Moran,CSW21,449,403,27,86,5,31.56
+Steve Perry,Brian Po,CSW21,365,460,34,86,0,27.24
+Craig Solomons,Brian Po,CSW21,481,362,25,82,2,33.72
+Brian Po,Nuala O'Rourke,CSW21,378,390,34,98,4,27.88
+Brian Po,Rory Kemp,CSW21,574,377,25,87,0,38.04
+Thacha,Nopparuj,CSW21,491,397,35,100,0,26.59
+Nopparuj,Thacha,CSW21,404,484,30,82,0,29.6
+Thacha,Nopparuj,CSW21,426,416,26,92,0,32.38
+Richard Popper,Samuel Kaplan,NWL23,409,434,24,91,8,35.12
+Kong Chock Heng,Ryan Wee,CSW21,354,430,27,79,6,29.04
+Nopparuj,Thacha,CSW21,500,424,23,91,6,40.17
+Thacha,Nopparuj,CSW21,496,349,28,83,5,31.78
+Thacha,Nopparuj,CSW21,457,373,25,79,2,33.2
+Nopparuj,Thacha,CSW21,363,454,28,85,2,32.15
+Thacha,Nopparuj,CSW21,549,378,27,97,0,36.31
 Nopparuj,Thacha,CSW21,435,363,25,100,2,31.92
 Dan Wachtell,James Donnelly,NWL23,361,325,34,92,0,20.18
 James Donnelly,Kenneth Rubin,NWL23,489,340,26,93,12,36.88
-Richard Popper,Samuel Kaplan,NWL23,409,434,24,91,8,35.12
 Natakorn,Sakdipong,CSW21,442,434,31,97,4,28.26
 Orry Swift,Mike Frentz,WOW24,452,354,25,84,2,32.24
 Sam Hollington,Mike Frentz,WOW24,456,468,26,140,4,35.54
@@ -28,7 +60,6 @@ Mike Frentz,Jonathan Lindh,WOW24,430,389,29,86,0,28.24
 Orry Swift,Mike Frentz,WOW24,459,377,31,94,0,26.97
 Mike Frentz,Trip Payne,WOW24,404,395,33,81,0,27.16
 Edwin Roth,Mike Frentz,WOW24,364,418,32,72,0,27.23
-Samuel Kaplan,David Firstman,NWL23,436,376,28,84,0,29.0
 John Aiyedun,David Ogedengbe,CSW21,457,314,30,80,5,33.04
 David Ogedengbe,John Aiyedun,CSW21,0,0,23,84,10,35.86
 David Ogedengbe,John Aiyedun,CSW21,0,0,23,84,10,35.86
@@ -68,7 +99,6 @@ Chris Cree,James Donnelly,NWL23,300,432,25,80,3,29.28
 Peter Schwartzman,James Donnelly,NWL23,453,441,28,79,0,31.93
 Bright Idahosa,Niel Gan,CSW21,505,485,23,89,13,43.04
 James Donnelly,John Luebkemann,NWL23,438,458,25,86,8,35.84
-Frank Tangredi,James Donnelly,NWL23,429,373,24,80,6,33.42
 James Donnelly,Michael Early,NWL23,289,444,34,72,4,26.94
 Jonathan Lindh,Jackson Smylie,NWL23,402,422,26,87,6,31.69
 Niel Gan,Josh Sokol,CSW21,417,318,29,80,2,28.96
@@ -99,6 +129,7 @@ Jonathan Lindh,Josh Kopczak,NWL23,362,354,26,74,4,27.54
 Jonathan Lindh,Frank Tangredi,NWL23,0,0,32,78,0,28.67
 Peter Schwartzman,Jonathan Lindh,NWL23,389,438,30,74,0,27.57
 Jonathan Lindh,Mark Garrod,NWL23,366,358,31,96,6,24.83
+Chris Cree,Jonathan Lindh,NWL23,424,368,28,78,4,28.29
 Jonathan Lindh,Michael Fagen,NWL23,319,372,26,68,0,26.58
 Mark Edward Owens,Jonathan Lindh,NWL23,382,420,23,91,8,34.87
 Jonathan Lindh,Edward De Guzman,NWL23,303,591,27,94,0,33.11
@@ -197,7 +228,774 @@ Jeff Fiszbein,Jonathan Lindh,WOW24,373,387,27,79,0,28.15
 Chris Cheng,Jonathan Lindh,WOW24,461,370,26,82,4,31.96
 Jonathan Lindh,Maddy Kamen,WOW24,404,395,26,79,6,30.73
 Noah Walton,Kenneth Rubin,NWL23,499,420,24,92,8,38.29
-Kenji,Shreve,WOW24,534,378,24,96,6,38.0
-Mike Frentz,Kenji,WOW24,475,347,23,107,2,35.74
+Kenji Matsumoto,Jon Shreve,WOW24,534,378,24,96,6,38.0
 Kenji,Jim Sherill,WOW24,518,296,32,74,0,25.44
-Kenji,Jim Sherill,WOW24,518,296,32,74,0,25.44
+Kenji Matsumoto,Jim Sherrill,WOW24,518,296,32,74,0,25.44
+Norases Vesdapunt,Kenji Matsumoto,WOW24,438,502,24,86,0,39.17
+Sam Hollington,Kenji Matsumoto,WOW24,436,429,25,89,0,34.6
+Kenji Matsumoto,Jim Sherrill,WOW24,491,307,28,86,0,28.5
+Kenji,Jim Sherill,WOW24,491,307,28,86,0,28.5
+Rafi Stern,Kenji Matsumoto,WOW24,473,384,24,80,10,35.71
+Jackson Smylie,Kenji Matsumoto,WOW24,488,446,24,83,10,38.92
+Saint,Kenji,WOW24,414,503,31,73,2,34.97
+Kenji Matsumoto,Howard Pistol,WOW24,467,302,28,83,0,27.46
+Kenji Matsumoto,Nigel Peltier,WOW24,321,409,27,75,0,27.04
+Kenji Matsumoto,Edwin Roth,WOW24,482,424,25,88,0,36.24
+Kenji Matsumoto,Zachary Ansell,WOW24,434,457,22,82,12,40.5
+Kenji Matsumoto,Laurie Cohen,WOW24,459,334,28,72,0,28.32
+Sam Hollington,Kenji Matsumoto,WOW24,541,383,24,80,0,38.5
+Hollington,Kenji,WOW24,541,383,24,80,0,38.5
+Jeff Fiszbein,Kenji Matsumoto,WOW24,481,500,27,80,0,36.33
+Kenji Matsumoto,Rafi Stern,WOW24,351,394,26,82,3,28.65
+Jackson Smylie,Kenji Matsumoto,WOW24,489,364,26,80,0,32.81
+David A Brown,Kenji Matsumoto,WOW24,380,491,31,96,0,31.63
+Kenji Matsumoto,Eric Goldstein,WOW24,501,366,24,76,10,36.12
+Mike Frentz,Kenji,WOW24,428,369,31,80,0,29.23
+Steve Hartsman,Kenji Matsumoto,WOW24,467,457,23,118,10,40.17
+Kenji Matsumoto,Maddy Kamen,WOW24,427,404,26,86,2,31.96
+Kenji Matsumoto,Stefan Kac,WOW24,503,384,29,82,0,30.59
+Keith Pries,Kenji Matsumoto,WOW24,368,481,26,83,14,37.2
+Rafi Stern,Joey Krafchick,WOW24,390,391,27,117,0,34.54
+Joey Krafchick,Kenji Matsumoto,WOW24,464,470,23,86,7,40.61
+Jackson Smylie,Rafi Stern,WOW24,459,337,25,89,7,31.84
+Jackson Smylie,Rafi Stern,WOW24,423,475,26,95,0,34.54
+Jackson Smylie,Rafi Stern,WOW24,562,311,29,85,4,33.46
+Ryan Wee,Tony Sim,CSW21,530,461,26,82,4,38.12
+Orry Swift,Joey Krafchick,WOW24,362,348,28,67,0,25.36
+Orry Swift,Jackson Smylie,WOW24,352,465,28,86,0,29.18
+Jackson Smylie,Alex Jaech,WOW24,461,379,27,122,0,31.11
+Joey Krafchick,Orry Swift,WOW24,408,323,27,72,0,27.07
+Michael Tang,Ryan Wee,CSW21,427,431,32,100,0,26.81
+Joey Krafchick,Nigel Peltier,WOW24,476,475,26,84,8,36.58
+Sam Hollington,Joey Krafchick,WOW24,401,387,26,84,0,30.31
+Joey Krafchick,Chris Cheng,WOW24,482,380,25,86,4,34.48
+Joey Krafchick,Maddy Kamen,WOW24,438,411,24,92,2,35.38
+Joey Krafchick,Jon Shreve,WOW24,434,367,27,92,6,32.42
+Stefan Kac,Joey Krafchick,WOW24,380,400,31,85,0,25.16
+Thacha,Nattapat,CSW21,410,392,25,140,4,36.79
+Nattapat,Thacha,CSW21,424,437,27,94,5,36.12
+Thacha,Nattapat,CSW21,613,323,28,96,0,38.11
+Mack Meller,Fred Morlan,NWL23,384,492,27,93,4,32.44
+Alex Jaech,Joey Krafchick,WOW24,473,423,24,89,6,37.33
+Matthew Tunnicliffe,Austin Shin,CSW21,395,415,23,81,12,35.22
+Clay Daniel,James Donnelly,NWL23,450,388,26,81,0,32.23
+Matthew Tunnicliffe,Charles Reinke,CSW21,310,541,29,149,0,29.34
+Chloe Fatsis,Noah Walton,NWL23,377,496,27,84,4,32.33
+Noah Walton,Joey Krafchick,NWL23,495,496,22,185,2,45.05
+Noah Walton,Jason Li,NWL23,448,443,24,89,6,37.12
+Noah Walton,Joe Edley,NWL23,476,421,25,94,2,35.88
+Chloe Fatsis,Noah Walton,NWL23,356,382,23,73,9,32.09
+Noah Walton,Clay Daniel,NWL23,482,448,24,90,0,38.75
+Joe Edley,Noah Walton,NWL23,333,482,28,92,12,33.22
+Seth Lipkin,Noah Walton,NWL23,530,377,24,92,11,37.79
+Noah Walton,Orry Swift,NWL23,551,353,25,90,0,39.67
+Michael Fagen,Noah Walton,NWL23,387,461,27,98,0,33.23
+Noah Walton,Kevin Fraley,NWL23,336,476,26,86,0,31.23
+Joey Krafchick,Noah Walton,NWL23,404,458,28,82,0,30.79
+Chloe Fatsis,Noah Walton,NWL23,490,346,26,91,0,32.15
+Noah Walton,Chloe Fatsis,NWL23,489,338,26,80,8,31.81
+Ian Weinstein,Noah Walton,NWL23,478,432,22,82,6,41.36
+Noah Walton,Joe Edley,NWL23,501,355,27,74,0,31.7
+Mack Meller,Noah Walton,NWL23,284,478,23,83,8,33.13
+Noah Walton,Seth Lipkin,NWL23,343,375,24,79,5,29.92
+Noah Walton,Michael Early,NWL23,490,315,33,101,0,35.67
+Marty Gabriel,Noah Walton,NWL23,353,570,25,122,0,36.92
+Noah Walton,Frank Tangredi,NWL23,537,327,27,87,6,32.0
+Eric Goldstein,Noah Walton,NWL23,368,479,25,80,4,33.88
+Noah Walton,Jason Li,NWL23,422,426,22,86,10,38.55
+Edward De Guzman,Noah Walton,NWL23,486,432,23,88,12,39.91
+Ed,Noah,NWL23,486,432,23,88,12,39.91
+Noah Walton,Craig Rowland,NWL23,468,293,28,85,0,27.18
+Noah Walton,Joey Krafchick,NWL23,359,456,27,85,0,30.19
+Mark Garrod,Noah Walton,NWL23,443,433,28,104,0,36.3
+David Pearl,Noah Walton,NWL23,377,488,29,92,0,29.83
+Noah Walton,Howard Pistol,NWL23,416,377,30,80,4,27.97
+Joel Elkins,Joey Krafchick,WOW24,373,382,29,69,0,26.03
+Nattapat,Thacha,CSW21,355,471,24,76,4,34.42
+Thacha,Nattapat,CSW21,529,448,26,122,0,42.64
+Nattapat,Thacha,CSW21,381,437,26,88,6,34.24
+Thacha,Nattapat,CSW21,0,0,23,107,0,41.1
+Nattapat,Thacha,CSW21,411,460,25,98,0,34.84
+Jonathan Lindh,Joey Krafchick,WOW24,472,385,25,94,6,34.28
+Michael Thelen,Ricky Sirois,NWL23,394,506,26,91,0,34.62
+Michael Thelen,Sheikh K Dukuly II,NWL23,375,385,27,93,5,28.15
+Jackson Smylie,Joey Krafchick,WOW24,462,412,25,82,2,34.96
+Juraj Pivovarov,Joey Krafchick,WOW24,472,359,27,90,4,30.78
+Joey Krafchick,Eric Goldstein,WOW24,337,462,24,79,5,33.29
+James Donnelly,Josh Kopczak,NWL23,333,380,27,77,2,26.41
+James Donnelly,Howard Pistol,NWL23,375,382,26,73,0,29.12
+Michael Fagen,James Donnelly,NWL23,439,295,29,79,4,25.31
+Roy Kamen,Joey Krafchick,WOW24,308,497,29,92,2,27.76
+Joey Krafchick,Edwin Roth,WOW24,409,241,32,85,0,20.31
+Jeff Fiszbein,Joey Krafchick,WOW24,426,414,26,94,0,32.31
+Thacha,Nopparuj,CSW21,459,498,25,95,5,38.28
+Nopparuj,Thacha,CSW21,345,425,25,80,2,30.8
+Nopparuj,Thacha,CSW21,385,451,27,89,0,35.58
+Thacha,Nopparuj,CSW21,552,346,27,86,0,33.26
+Thacha,Nopparuj,CSW21,556,327,24,92,5,36.79
+Nopparuj,Thacha,CSW21,339,550,26,85,5,34.19
+Thacha,Nopparuj,CSW21,472,425,26,95,0,36.72
+Jason Ubeika,Matthew Tunnicliffe,CSW21,414,596,24,98,4,42.08
+Matthew Tunnicliffe,Winter,CSW21,396,477,23,86,5,37.96
+Nopparuj,Thacha,CSW21,446,484,30,90,2,34.41
+Robert Linn,Matthew Tunnicliffe,CSW21,428,456,28,108,4,31.57
+Cheryl Melvin,Matthew Tunnicliffe,CSW21,416,363,26,92,4,29.96
+Matthew Tunnicliffe,Jacob Bergmann,CSW21,397,363,25,83,5,30.4
+Matthew Tunnicliffe,Mohammad Sulaiman,CSW21,441,417,30,86,0,28.6
+Thomas Reinke,Matthew Tunnicliffe,CSW21,429,358,24,83,4,32.79
+Alec Sjoholm,Matthew Tunnicliffe,CSW21,469,516,29,92,4,36.36
+James Donnelly,Ben Withers,NWL23,386,374,27,82,7,28.15
+Noah Berger,James Donnelly,NWL23,456,436,23,100,0,38.78
+Joshua Castellano,Waseem Khatri,CSW21,487,356,26,80,0,32.42
+Waseem Khatri,Joshua Castellano,CSW21,327,428,29,77,5,29.32
+Joshua Castellano,Waseem Khatri,CSW21,497,414,29,80,0,35.04
+Joshua Castellano,Alec Sjoholm,CSW21,431,411,25,82,0,33.68
+Waseem Khatri,Joshua Castellano,CSW21,441,408,24,83,8,35.38
+Alec Sjoholm,Joshua Castellano,CSW21,457,351,22,76,4,36.73
+Will Anderson,Joshua Castellano,CSW21,356,448,21,80,14,38.29
+Joshua Castellano,Will Anderson,CSW21,465,396,26,86,0,33.12
+Joshua Castellano,Charles Reinke,CSW21,521,401,24,86,4,38.42
+Thomas Reinke,Joshua Castellano,CSW21,380,481,27,86,0,31.89
+Joel Wapnick,Joshua Castellano,CSW21,443,553,26,134,0,38.31
+Joshua Castellano,Waseem Khatri,CSW21,453,369,26,94,0,31.62
+Joshua Castellano,Brian Bowman,CSW21,452,407,22,90,0,39.05
+Josh Castellano,Brian Bowman,CSW21,452,407,22,90,0,39.05
+Austin Shin,Joshua Castellano,CSW21,304,494,26,98,5,30.69
+Waseem Khatri,Joshua Castellano,CSW21,430,423,25,86,2,34.12
+Joshua Castellano,Alec Sjoholm,CSW21,454,433,23,86,16,38.57
+Joshua Castellano,Moiz Ullah Baig,CSW21,461,339,23,91,2,34.78
+Ben Schoenbrun,Joshua Castellano,CSW21,473,525,22,80,5,45.36
+Joshua Castellano,Tony Leah,CSW21,467,303,30,74,0,25.67
+Alec Sjoholm,Joshua Castellano,CSW21,442,476,24,89,4,38.25
+Joshua Castellano,Tim Weiss,CSW21,449,409,26,98,4,33.0
+Joshua Castellano,Bradley Whitmarsh,CSW21,482,435,26,84,0,35.27
+Joshua Castellano,Robert Linn,CSW21,452,405,26,87,0,32.96
+Josh Sokol,Joshua Castellano,CSW21,413,386,24,74,6,33.29
+Joel Wapnick,Joshua Castellano,CSW21,506,441,25,94,5,42.75
+Joshua Castellano,Matthew Tunnicliffe,CSW21,516,471,24,93,6,41.12
+Austin Shin,Joshua Castellano,CSW21,370,421,26,88,0,30.42
+Joshua Castellano,Jason Keller,CSW21,409,526,25,97,6,37.4
+Joshua Castellano,Thomas Reinke,CSW21,358,533,24,101,5,37.12
+Mohammad Sulaiman,Joshua Castellano,CSW21,355,576,23,81,0,40.48
+Terry Kang,Joshua Castellano,CSW21,377,530,25,80,6,36.28
+Ryan Wee,Leon Tan,CSW21,432,510,28,90,0,33.64
+Lois Greene,Fred Morlan,NWL23,480,345,30,89,4,27.5
+Dokosimi Oluwatimilehin,Enoch Nwai,CSW21,384,341,27,92,6,31.42
+Enoch Nwai,DOkosimi Oluwatimilehin,CSW21,515,450,24,89,4,40.21
+Enoch Nwai,DOkosimi Oluwatimilehin,CSW21,515,450,24,89,4,40.21
+DOkosimi Oluwatimilehin,Enoch Nwai,CSW21,479,402,27,111,0,32.63
+Enoch Nwai,Dokosimi Oluwatimilehin,CSW21,447,453,24,90,2,37.5
+DOkosimi Oluwatimilehin,Enoch Nwai,CSW21,413,482,24,84,20,37.29
+Enoch Nwai,DOkosimi Oluwatimilehin,CSW21,443,343,23,98,8,34.17
+DOkosimi Oluwatimilehin,Enoch Nwai,CSW21,426,383,25,85,0,32.36
+Enoch Nwai,DOkosimi Oluwatimilehin,CSW21,526,434,23,99,0,41.74
+DOkosimi Oluwatimilehin,Enoch Nwai,CSW21,519,419,27,90,2,34.74
+Enoch Nwai,DOkosimi Oluwatimilehin,CSW21,390,472,27,88,0,31.93
+DOkosimi Oluwatimilehin,Enoch Nwai,CSW21,494,390,23,95,9,38.43
+Enoch Nwai,DOkosimi Oluwatimilehin,CSW21,420,402,23,89,8,35.74
+DOkosimi Oluwatimilehin,Enoch Nwai,CSW21,391,381,26,65,6,29.69
+Enoch Nwai,DOkosimi Oluwatimilehin,CSW21,547,451,21,108,6,47.52
+DOkosimi Oluwatimilehin,Enoch Nwai,CSW21,332,441,27,73,12,28.63
+Enoch Nwai,DOkosimi Oluwatimilehin,CSW21,503,440,23,86,8,41.0
+DOkosimi Oluwatimilehin,Enoch Nwai,CSW21,517,361,26,81,0,33.77
+Enoch Nwai,DOkosimi Oluwatimilehin,CSW21,427,309,26,85,0,28.31
+DOkosimi Oluwatimilehin,Enoch Nwai,CSW21,451,351,24,80,10,33.42
+Enoch Nwai,DOkosimi Oluwatimilehin,CSW21,489,481,22,92,15,44.09
+DOkosimi Oluwatimilehin,Enoch Nwai,CSW21,410,431,28,109,0,35.19
+Christian Oktavius,Hyendi Gumilang,CSW21,390,375,27,78,5,28.33
+Christian Oktavius,Alex Tan,CSW21,407,404,26,82,8,31.19
+Sunardi,Christian Oktavius,CSW21,353,545,35,90,0,28.65
+Christian Oktavius,Rastra Teguh,CSW21,438,417,25,76,5,34.2
+Joey Krafchick,Joe Edley,NWL23,425,410,29,98,0,28.79
+Kevin Fraley,Joey Krafchick,NWL23,391,422,24,89,4,33.88
+Jason Li,Joey Krafchick,NWL23,530,338,23,88,6,37.74
+Joey Krafchick,Michael Fagen,NWL23,426,423,27,83,4,31.44
+Clay Daniel,Joey Krafchick,NWL23,278,490,21,91,8,36.57
+Hubert Wee,Christian Oktavius,CSW21,596,318,23,86,7,39.74
+beth,julia,NWL23,0,0,34,131,0,24.61
+Joey Krafchick,Chloe Fatsis,NWL23,403,457,27,97,0,31.85
+Orry Swift,Joey Krafchick,NWL23,407,439,26,90,0,32.54
+Chloe Fatsis,Joey Krafchick,NWL23,432,337,26,74,0,29.58
+Kenneth Rubin,Joey Krafchick,NWL23,430,343,28,91,3,27.61
+Joey Krafchick,Jason Li,NWL23,535,359,24,94,0,37.25
+Joey Krafchick,Knox Daniel,NWL23,458,477,24,98,0,38.96
+Joey Krafchick,Joe Edley,NWL23,0,0,14,99,17,45.0
+Edward De Guzman,Joey Krafchick,NWL23,421,440,24,140,4,35.88
+Joey Krafchick,Mark Garrod,NWL23,0,0,26,80,0,30.56
+Joey Krafchick,Seth Lipkin,NWL23,440,475,24,93,0,38.12
+Ian Weinstein,Joey Krafchick,NWL23,0,0,27,82,0,30.52
+Howard Pistol,Joey Krafchick,NWL23,438,454,23,96,6,38.78
+Joey Krafchick,Marty Gabriel,NWL23,366,373,28,78,0,26.39
+Joey Krafchick,Dustin Dean,NWL23,377,373,27,71,0,27.78
+Scott Appel,Joey Krafchick,NWL23,318,471,31,84,0,29.1
+Joey Krafchick,Jeremy Hall,NWL23,467,385,27,82,8,34.15
+Ryan Wee,Michael Tang,CSW21,633,485,27,212,5,43.58
+Tony Sim,Ryan Wee,CSW21,470,489,25,96,2,43.12
+Ryan Wee,Jeremy Khoo,CSW21,540,402,24,104,5,39.25
+Soramet,Thacha,CSW21,447,366,27,86,6,30.11
+Thacha,Soramet,CSW21,301,546,27,86,0,31.37
+Thacha,Soramet,CSW21,458,319,27,92,0,28.78
+David Weisberg,Liz Gottlin,NWL23,411,460,26,82,0,33.5
+Soramet,Thacha,CSW21,451,403,24,99,0,35.58
+Thacha,Soramet,CSW21,388,429,24,98,4,34.04
+Soramet,Thacha,CSW21,472,412,23,80,10,38.43
+Thacha,Soramet,CSW21,525,374,24,82,0,37.46
+David Weisberg,Liz Gottlin,NWL23,373,343,30,74,0,23.87
+Matthew Tunnicliffe,Deen Hergott,NWL23,278,363,30,72,0,24.59
+Chris ten Den,Matthew Tunnicliffe,CSW21,475,512,27,98,4,36.56
+Jackson Smylie,Josh Sokol,NWL23,484,312,30,75,0,26.53
+Josh Sokol,Jackson Smylie,NWL23,487,415,24,74,8,37.58
+Jackson Smylie,Josh Sokol,NWL23,529,373,25,97,2,36.08
+Josh Sokol,Jackson Smylie,NWL23,398,326,29,98,8,29.36
+Jackson Smylie,Josh Sokol,NWL23,409,377,26,86,0,30.23
+Ben Greenwood,Jonathan Lindh,NWL23,283,539,25,83,0,32.88
+Eric Goldstein,Jonathan Lindh,NWL23,520,365,25,77,10,35.4
+Joey Krafchick,Jonathan Lindh,NWL23,473,407,28,82,0,31.43
+Ryan Wee,Jeremy Khoo,CSW21,631,392,27,104,0,37.89
+Ryan Wee,Jeremy Khoo,CSW21,574,323,25,82,2,35.88
+Chris Kulig,Jonathan Lindh,NWL23,398,416,28,89,4,29.07
+Jonathan Lindh,Dan Wachtell,NWL23,438,354,28,80,12,32.19
+Jonathan Lindh,Annette Obrestad,NWL23,378,461,29,83,0,28.93
+Jonathan Lindh,David Spargo,NWL23,498,250,32,105,0,26.58
+Samuel Kaplan,Michael Ecsedy,NWL23,426,442,27,79,0,32.15
+Jonathan Lindh,Eric Goldstein,NWL23,536,359,24,96,12,37.29
+Joel Horn,Jonathan Lindh,NWL23,400,410,29,76,0,27.93
+Jonathan Lindh,Michael Fleck,NWL23,393,280,28,72,3,24.04
+Billy Nakamura,Jonathan Lindh,NWL23,378,369,26,82,4,28.73
+Jonathan Lindh,Christopher Sykes,NWL23,378,452,33,98,0,32.26
+Carol McDonald,Jonathan Lindh,NWL23,332,438,33,90,2,24.81
+Joshua Castellano,Adam Logan,CSW21,525,393,26,98,0,35.31
+Joshua Castellano,Steve Ozorio,CSW21,518,320,26,149,4,45.08
+Erickson Smith,Joshua Castellano,CSW21,453,413,23,86,5,37.65
+Joshua Castellano,Bright Idahosa,CSW21,459,306,29,94,2,30.68
+Joshua Castellano,Jason Keller,CSW21,542,465,28,86,2,35.96
+Chris Lipe,Joshua Castellano,CSW21,431,366,23,94,4,34.65
+Austin Shin,Joshua Castellano,CSW21,429,438,26,89,2,33.35
+Carmel Dodd,Joshua Castellano,CSW21,482,437,24,80,2,38.29
+Joshua Castellano,Ben Schoenbrun,CSW21,451,425,24,82,7,36.5
+Edgar Odongkara,Joshua Castellano,CSW21,500,355,26,90,5,37.8
+Joshua Castellano,Erickson Smith,CSW21,475,392,26,86,5,37.08
+Adam Logan,Joshua Castellano,CSW21,581,314,26,101,0,34.42
+Joshua Castellano,Matthew O'Connor,CSW21,436,389,30,79,0,30.93
+Joshua Castellano,Austin Shin,CSW21,537,376,22,86,0,41.5
+Robert Linn,Joshua Castellano,CSW21,443,466,26,97,4,34.96
+Joshua Castellano,Mohamed Kamara,CSW21,549,351,28,112,5,34.81
+Tim Weiss,Joshua Castellano,CSW21,387,333,25,78,4,28.8
+Wellington Jighere,Joshua Castellano,CSW21,521,479,24,85,4,41.67
+Joshua Castellano,Dennis Ikekeregor,CSW21,417,436,24,86,0,35.54
+Joshua Castellano,Ben Schoenbrun,CSW21,425,428,23,84,4,37.09
+Will Anderson,Joshua Castellano,CSW21,433,478,22,80,7,41.41
+Anthony Ikolo,Joshua Castellano,CSW21,413,448,26,87,2,33.12
+Joshua Castellano,Thomas Stumpf,CSW21,523,272,29,74,10,30.04
+Joshua Castellano,Chris Lipe,CSW21,385,424,28,77,6,30.85
+Josh Sokol,Joshua Castellano,CSW21,469,437,28,84,0,32.36
+Ivan Sentongo,Joshua Castellano,CSW21,354,435,28,81,0,28.18
+Joshua Castellano,Joe Roberdeau,CSW21,533,328,26,77,2,33.12
+Zachary Ansell,Jonathan Lindh,NWL23,376,374,28,86,0,26.79
+Jonathan Lindh,David Postal,NWL23,391,367,28,74,8,27.07
+Jonathan Lindh,Wallace Schultz,NWL23,384,402,28,77,0,28.07
+David Firstman,Jonathan Lindh,NWL23,431,412,28,89,7,30.11
+Annette Obrestad,Jonathan Lindh,NWL23,490,314,26,83,0,30.92
+Joey Krafchick,Eric Goldstein,NWL23,607,347,25,76,0,38.16
+Jonathan Lindh,Michael Ecsedy,NWL23,417,382,27,76,0,29.59
+Jonathan Lindh,Edwin Roth,NWL23,447,363,26,86,0,31.15
+Joey Krafchick,Jonathan Lindh,NWL23,395,361,27,71,2,28.0
+Noah Goldstein,Jonathan Lindh,NWL23,375,410,32,94,0,24.53
+David Spargo,Jonathan Lindh,NWL23,534,348,30,82,0,32.17
+Jonathan Lindh,Vera Bigall,NWL23,402,418,26,82,2,31.54
+Jonathan Lindh,Andy Hoang,NWL23,321,419,30,83,0,26.55
+Niel Gan,Matthew O'Connor,CSW21,370,421,30,89,2,28.17
+Noah Kalus,Jonathan Lindh,NWL23,308,514,27,81,0,30.44
+Robin Pollock Daniel,Jonathan Lindh,NWL23,432,441,32,79,0,28.77
+Jonathan Lindh,Richard Popper,NWL23,434,373,31,90,0,27.9
+Jonathan Lindh,Wes Eddings,NWL23,500,363,29,98,0,29.76
+Jonathan Lindh,Edwin Roth,NWL23,394,452,30,90,0,28.2
+Christopher Sykes,Joey Krafchick,NWL23,346,420,32,77,0,23.94
+Joel Horn,Jonathan Lindh,NWL23,398,361,23,86,6,33.0
+Jonathan Lindh,David Postal,NWL23,401,407,32,97,2,27.71
+Wallace Schultz,Jonathan Lindh,NWL23,443,515,23,84,10,41.65
+Adam Logan,Will Anderson,CSW21,450,453,20,94,5,45.15
+Austin Shin,Adam Logan,CSW21,465,325,24,80,10,32.92
+Wellington Jighere,Matthew Connor,CSW21,454,383,27,74,6,31.0
+Dennis Ikekeregor,Will Anderson,CSW21,481,491,22,110,9,44.18
+Dennis Ikekeregor,Erickson Smith,CSW21,470,364,28,92,5,33.78
+Wellington Jighere,Chris Lipe,CSW21,436,378,23,84,4,35.39
+Ben Schoenbrun,Matthew Connor,CSW21,431,485,26,91,8,35.23
+Wellington Jighere,Chris Lipe,CSW21,568,414,23,114,12,42.7
+Austin Shin,Wellington Jighere,CSW21,468,374,18,108,14,46.78
+Joey Krafchick,David Spargo,NWL23,366,462,26,70,6,31.85
+Robin Pollock Daniel,Joey Krafchick,NWL23,303,403,28,77,0,25.21
+Zachary Ansell,Joey Krafchick,NWL23,451,450,27,98,2,37.27
+Hubert Wee,Ryan Wee,CSW21,509,319,26,83,5,31.85
+Tony Sim,Ryan Wee,CSW21,315,528,34,100,0,27.82
+Seth Lipkin,Samuel Kaplan,NWL23,441,427,28,88,0,31.0
+Samuel Kaplan,Eric Goldstein,NWL23,427,342,26,76,0,29.58
+Joey Krafchick,Michael Ecsedy,NWL23,587,354,26,158,6,36.19
+Joey Krafchick,David Postal,NWL23,502,272,27,83,0,28.67
+Joey Krafchick,David Firstman,NWL23,428,399,25,91,4,33.08
+Joey Krafchick,Michael Fleck,NWL23,460,283,28,76,0,26.54
+Niel Gan,Erickson Smith,CSW21,431,454,25,111,0,35.4
+Terry Kang,Niel Gan,CSW21,407,403,27,79,0,30.0
+Niel Gan,Jason Ubeika,CSW21,430,436,27,105,8,32.07
+Annette Obrestad,Joey Krafchick,NWL23,492,407,26,86,4,34.58
+David Spargo,Joey Krafchick,NWL23,451,371,27,85,0,30.44
+Chris Kulig,Joey Krafchick,NWL23,425,420,26,81,0,32.5
+Jackson Smylie,Josh Sokol,NWL23,406,504,29,102,0,33.71
+Josh Sokol,Jackson Smylie,NWL23,435,365,22,88,10,36.36
+Jackson Smylie,Josh Sokol,NWL23,479,437,29,83,0,31.59
+Josh Sokol,Jackson Smylie,NWL23,512,386,22,92,8,40.82
+Josh Sokol,Jackson Smylie,NWL23,376,448,25,73,0,32.96
+Patrick Beatrez,Verna Richards Berg,NWL23,462,345,38,103,0,24.83
+Patrick Beatrez,Lydia Keras,NWL23,297,451,32,74,2,29.13
+Patrick Beatrez,Trevor Sealy,NWL23,363,370,29,76,8,27.29
+Verna Richards Berg,Patrick Beatrez,NWL23,308,484,27,89,0,29.33
+Mark Hamilton,Patrick Beatrez,NWL23,311,353,36,87,0,20.09
+Brian Po,Greg Kelly,CSW21,399,441,28,80,0,30.0
+Stewart Houten,Brian Po,CSW21,494,434,25,92,2,37.12
+Paul Thompson,Brian Po,CSW21,441,437,25,72,8,35.12
+Brian Po,Rob Richland,CSW21,427,435,26,83,0,33.15
+Andrew Eames,Brian Po,CSW21,445,464,28,85,0,32.46
+Brian Po,Samuel Crispin,CSW21,384,432,25,79,6,32.64
+Natalie Zolty,Brian Po,CSW21,579,280,22,138,0,39.05
+Samuel Kaplan,Seth Lipkin,NWL23,488,382,28,89,2,31.07
+Panupol Sujjayakorn,Nigel Richards,CSW07,372,499,26,91,4,37.8
+Nigel Richards,Siu Hean Cheah,CSW07,321,447,23,86,14,33.39
+Nigel Richards,Theodoro Martus,CSW07,432,421,25,85,0,34.12
+Nigel Richards,Odette Carmina Rio,CSW07,484,357,24,98,0,35.04
+Robert Linn,Nigel Richards,CSW07,540,294,27,83,0,30.89
+John Hopkins,James Donnelly,NWL23,278,476,29,77,0,27.93
+Jeffrey Scranton,James Donnelly,NWL23,402,454,23,73,0,37.22
+Macondo_Inference,Quackle,NWL18,362,407,29,88,0,26.52
+James Donnelly,Mike Baffaro,NWL23,563,351,26,104,0,35.15
+James Donnelly,David B Carlson,NWL23,396,356,27,80,0,27.85
+Ben Greenwood,James Donnelly,NWL23,346,450,28,76,0,28.43
+Mad Palazzo,Patrick Beatrez,NWL23,360,342,34,77,0,20.65
+Cecilia Huber,Patrick Beatrez,NWL23,319,412,31,79,0,23.58
+Dianne Wittman,Patrick Beatrez,NWL23,396,411,31,85,3,27.2
+Patrick Beatrez,Olinga Flisock,NWL23,408,352,29,87,4,28.29
+Patrick Beatrez,John David,NWL23,282,372,35,80,0,19.47
+Patrick Beatrez,Tina Yates,NWL23,355,324,33,80,0,23.19
+Patrick Beatrez,Betsey Wood,NWL23,551,287,32,122,0,26.19
+Patrick Beatrez,Lydia Keras,NWL23,382,446,31,92,0,26.71
+umbron pokemon trainer,sakdipong,CSW21,433,452,33,98,2,30.55
+Carl,Q,WOW24,727,354,24,149,0,45.04
+Kit,Pok,CSW21,489,562,23,112,0,45.7
+Brian Po,Euclid Hui,CSW21,329,390,25,79,5,28.76
+Thomson Law,Brian Po,CSW21,553,342,24,79,5,37.29
+Brian Po,Carson Ip,CSW21,415,484,30,83,5,34.54
+Jack Lechner,Samuel Kaplan,NWL23,252,558,32,100,0,26.58
+Terry Kang,Samuel Kaplan,NWL23,415,440,26,85,6,32.88
+Dan Wachtell,Samuel Kaplan,NWL23,377,345,27,77,0,26.74
+Soramet,Thacha,CSW21,408,451,23,90,12,37.35
+Thacha,Soramet,CSW21,531,493,26,89,0,39.38
+Thacha,Soramet,CSW21,401,511,27,88,5,33.78
+Soramet,Thacha,CSW21,395,482,25,80,8,35.08
+Soramet,Thacha,CSW21,442,417,24,86,6,35.79
+Thacha,Soramet,CSW21,456,432,24,86,10,37.0
+Samuel Kaplan,Cornelia Guest,NWL23,362,313,26,67,4,25.96
+Vince Boyle,Ryan Wee,CSW21,368,462,29,69,2,28.62
+Ryan Wee,Fashola Kayode,CSW21,549,325,28,83,11,38.0
+Abiodun Adeyemi,Ryan Wee,CSW21,438,414,27,82,5,31.56
+Mohamed Kamara,Ryan Wee,CSW21,413,535,26,92,4,36.46
+Ryan Wee,Craig Solomons,CSW21,477,272,24,77,6,31.21
+Noble Onoshevwe,Ryan Wee,CSW21,305,474,26,97,5,29.96
+Ryan Wee,Rik Kennedy,CSW21,545,334,24,87,8,36.62
+Sanmi Odelana,Ryan Wee,CSW21,320,506,34,92,0,29.88
+Samuel Kaplan,Robert Desimone Jr,NWL23,595,397,27,102,0,41.23
+Nits,Bob,CSW21,336,453,28,84,6,32.22
+Rob,Nits,CSW21,511,365,25,140,3,35.04
+Tim,Nits,CSW21,538,383,30,98,2,33.79
+Nits,Bob,CSW21,403,541,31,90,4,31.83
+Matt,Nits,CSW21,393,408,28,83,0,28.61
+Nits,Bob,CSW21,477,370,29,84,4,29.21
+Sam,Nits,CSW21,525,487,25,89,5,40.48
+Nits,Rob,CSW21,498,410,33,90,0,34.19
+Tim,Nits,CSW21,440,454,31,91,0,30.27
+Nits,Ben,CSW21,420,532,26,90,5,36.62
+Nits,Matt,CSW21,330,360,32,83,0,26.57
+Bob,Nits,CSW21,549,394,30,102,4,36.03
+Nits,Sam,CSW21,379,426,27,102,0,31.42
+Rob,Nits,CSW21,379,480,29,96,2,29.62
+Nits,Tim,CSW21,385,463,30,79,4,28.27
+Ben,Nits,CSW21,413,415,32,76,4,27.9
+John Aiyedun,Tega Okiemute,CSW21,0,0,23,86,10,37.23
+Tega Okiemute,John Aiyedun,CSW21,0,0,22,81,16,39.43
+John Aiyedun,Tega Okiemute,CSW21,0,0,19,90,14,40.11
+Tega Okiemute,John Aiyedun,CSW21,0,0,20,83,6,36.68
+John Aiyedun,Tega Okiemute,CSW21,0,0,23,78,0,39.43
+Tega Okiemute,John Aiyedun,CSW21,0,0,20,82,3,38.58
+Tega Okiemute,John Aiyedun,CSW21,0,0,20,82,3,38.58
+John Aiyedun,Tega Okiemute,CSW21,0,0,19,88,6,32.06
+Tega Okiemute,John Aiyedun,CSW21,0,0,22,72,0,29.76
+John Aiyedun,Tega Okiemute,CSW21,0,0,21,88,8,39.95
+Tega Okiemute,John Aiyedun,CSW21,0,0,21,76,0,33.0
+John Aiyedun,Tega Okiemute,CSW21,496,541,28,106,0,39.89
+Joshua Sokol,Jackson Smylie,NWL23,506,394,24,105,4,37.5
+Jackson Smylie,Joshua Sokol,NWL23,338,397,25,92,10,29.4
+Joshua Sokol,Jackson Smylie,NWL23,404,453,25,86,0,34.28
+Jackson Smylie,Josh,NWL23,382,417,23,76,6,34.74
+Joshua Sokol,Jackson Smylie,NWL23,433,335,28,92,0,27.43
+Amika Gair-Macmichael,Samuel Kaplan,NWL23,412,314,36,91,0,23.34
+Ayo Akinfemisoye,Enoch Nwali,CSW21,365,478,27,98,4,35.15
+Enoch Nwali,Oloro Opeyemi,CSW21,532,419,25,101,7,42.42
+Thomson Law,Brian Po,CSW21,436,413,26,80,4,32.65
+Brian Po,Ernest So,CSW21,557,409,26,86,5,40.68
+Josie,Brian Po,CSW19,358,468,28,83,2,31.67
+Brian Po,Paul Christensen,CSW19,437,301,28,79,0,26.36
+Linda Day,Brian Po,CSW19,300,401,32,75,0,21.91
+Josh Sokol,Jackson Smylie,NWL23,365,323,28,74,0,24.57
+Jackson Smylie,Josh Sokol,NWL23,432,386,30,82,0,27.27
+Josh Sokol,Jackson Smylie,NWL23,518,313,27,76,4,30.78
+Jackson Smylie,Josh Sokol,NWL23,442,459,23,86,8,39.17
+Josh Sokol,Jackson Smylie,NWL23,396,458,27,86,0,31.63
+Wellington Jighere,Enoch Nwali,CSW21,439,485,22,84,4,42.0
+Matthew O'Connor,Justin Morris,CSW21,439,397,29,80,0,28.83
+Richard Popper,Samuel Kaplan,NWL23,407,473,29,75,0,30.34
+Niel Gan,Richard Buck,CSW21,348,467,28,86,0,32.48
+Froilan Mendoza,Samuel Kaplan,NWL23,447,444,25,98,8,35.64
+Patrick Beatrez,Brenda Megannety,NWL23,438,297,28,78,0,26.25
+Terry Aitken,Patrick Beatrez,NWL23,375,291,27,68,4,24.67
+Richard Okechi,Bob Mbugua,CSW21,545,534,27,176,5,48.72
+Niel Gan,Matthew O'Connor,CSW21,393,358,22,89,5,34.14
+Michael Thelen,Josh Sokol,NWL23,0,0,24,72,0,28.83
+Wallace Schultz,Josh Sokol,NWL23,502,383,26,92,0,34.04
+Josh Sokol,Michael Baker,NWL23,516,436,25,92,0,38.08
+Sharmaine Farini,Patrick Beatrez,NWL23,397,338,27,82,6,27.22
+Mark Miller,Samuel Kaplan,NWL23,303,438,30,67,0,24.7
+Tweedledee,Tweedledum,NWL23,382,397,23,88,4,33.87
+Carl Johnson,Josh Sokol,NWL23,380,403,26,80,0,30.12
+Josh Sokol,John Luebkemann,NWL23,459,439,25,86,6,35.92
+Jeremy Hildebrand,Matthew Tunnicliffe,CSW21,384,505,26,83,0,34.19
+Kevin Fraley,Josh Sokol,NWL23,401,481,23,84,0,38.35
+Josh Sokol,Laurie Cohen,NWL23,411,289,28,91,0,25.0
+Wallace Schultz,Josh Sokol,NWL23,358,496,32,95,0,28.58
+Josh Sokol,John Karris,NWL23,363,339,25,78,8,28.08
+Joel Horn,Josh Sokol,NWL23,321,530,27,131,0,31.52
+Josh Sokol,Michael Thelen,NWL23,484,349,26,82,2,32.04
+Noah Slatkoff,Niel Gan,CSW21,405,483,27,89,5,32.89
+Josh Sokol,Jeremy Cahnmann,NWL23,549,362,28,82,0,32.54
+Michael Stevens,Josh Sokol,NWL23,416,438,25,84,0,34.16
+Florence Spanfelner,Josh Sokol,NWL23,294,586,30,90,0,32.41
+Josh Sokol,Cheryl Kagan,NWL23,381,383,27,69,0,28.3
+Jane Geary,Josh Sokol,NWL23,363,435,26,83,4,30.69
+Bryan Richgruber,Skyler Lutz,NWL23,458,379,24,88,0,34.88
+Jackson Smylie,Michael Fagen,WOW24,375,410,28,83,0,31.96
+Jackson Smylie,Seth Lipkin,WOW24,243,449,25,77,0,27.68
+Jon Shreve,Jackson Smylie,WOW24,379,405,28,68,10,28.0
+Jackson Smylie,Ryan Chepita,WOW24,455,347,28,98,6,30.78
+Sam Hollington,Jackson Smylie,WOW24,384,328,28,72,6,25.43
+Jackson Smylie,David Spargo,WOW24,443,441,24,82,8,36.83
+Seth Lipkin,Jackson Smylie,WOW24,461,485,26,98,6,41.24
+Jackson Smylie,Jon Shreve,WOW24,381,485,26,72,4,33.31
+Zachary Ansell,Jackson Smylie,WOW24,305,484,27,89,0,29.22
+Jackson Smylie,Maxim Panitch,WOW24,510,420,26,90,2,35.77
+Jason Li,Jackson Smylie,WOW24,335,467,27,80,8,29.7
+Joel Horn,Jackson Smylie,WOW24,433,361,30,77,4,33.07
+Jackson Smylie,Michael Fagen,WOW24,396,448,25,88,0,33.76
+Jackson Smylie,Annette Obrestad,WOW24,416,402,25,76,2,32.72
+Agnes Kramer,Jackson Smylie,WOW24,369,471,26,86,0,32.31
+Samuel Kaplan,Edwin Roth,NWL23,402,356,28,75,0,27.07
+Andy Hoang,David Weisberg,NWL23,476,362,28,80,0,29.93
+Andy Hoang,David Weisberg,NWL23,352,586,33,122,0,32.25
+Wallace Schultz,Joey Mallick,NWL23,373,424,28,83,0,28.46
+Josh Sokol,Joey Mallick,NWL23,392,506,26,89,0,34.54
+Joey Mallick,Laurie Cohen,NWL23,507,351,28,89,4,38.81
+Josh Sokol,Joey Mallick,NWL23,471,424,25,85,2,38.79
+Joey Mallick,Wallace Schultz,NWL23,598,457,22,110,4,47.95
+Joey Mallick,Michael Thelen,NWL23,339,549,25,149,2,35.52
+Joey Mallick,Laurie Cohen,NWL23,498,277,29,72,0,28.18
+Carl Johnson,Joey Mallick,NWL23,460,396,29,89,0,29.52
+Michael Baker,Joey Mallick,NWL23,410,446,26,85,2,32.92
+Ken Kasney,Joey Mallick,NWL23,368,546,26,86,2,39.08
+Joey Mallick,David Weiss,NWL23,461,300,28,70,8,27.18
+Joey Mallick,Kevin Burbridge,NWL23,498,416,30,94,0,30.47
+Frances Shaw,Joey Mallick,NWL23,351,439,31,78,2,25.48
+Joey Mallick,Pamina Deutsch,NWL23,348,484,23,83,10,36.17
+Joey Mallick,Jeff Martin,NWL23,421,299,27,89,0,26.67
+Stan Miranda,Joey Mallick,NWL23,290,402,31,87,0,23.73
+Mike Baron,Joey Mallick,NWL23,406,417,25,98,5,32.92
+Joey Mallick,John Luebkemann,NWL23,460,354,26,80,4,31.31
+Samuel Kaplan,Jeffrey Jacobson,NWL23,540,405,26,106,0,36.35
+Samuel Kaplan,Robert Goetz,NWL23,391,455,24,90,9,35.25
+Joe Petree,Samuel Kaplan,NWL23,343,411,25,83,10,30.16
+Christian Oktavius,Alexander Gozali,CSW21,549,345,28,79,5,35.37
+Alexander Gozali,Christian Oktavius,CSW21,398,440,26,75,5,35.2
+Niel Gan,Adam Logan,CSW21,398,401,26,78,0,30.73
+Harriette Lakernick,Jonathan Lindh,NWL23,406,412,29,86,0,28.21
+Adam Logan,Niel Gan,CSW21,469,379,26,95,4,32.62
+Christian Oktavius,Alexander Gozali,CSW21,549,345,28,79,5,35.37
+Julius Wilson,Christian Oktavius,CSW21,578,330,26,88,6,34.92
+Alexander Gozali,Christian Oktavius,CSW21,398,440,26,75,5,35.2
+Christian Oktavius,Pinta Prasetyaninghsih,CSW21,617,354,39,93,0,35.43
+Hyendi Gumilang,Christian Oktavius,CSW21,490,377,33,74,2,27.31
+Christian Oktavius,Denisha Gita,CSW21,640,246,36,86,0,29.38
+Christian Oktavius,M. Erzie,CSW21,596,395,29,93,0,38.71
+Ernest So,Brian Po,CSW19,435,468,26,83,12,36.92
+Euclid Hui,Brian Po,CSW19,547,347,31,122,0,28.84
+Brian Po,Euclid Hui,CSW19,454,433,29,86,2,30.59
+Ryan Fischer,Andy Hoang,NWL23,354,277,34,86,0,24.65
+Cesar Del Solar,Josh Sokol,NWL20,457,397,25,131,0,38.38
+Thacha Koowirat,Soramet M.,CSW21,455,404,22,81,10,39.05
+Soramet M.,Thacha Koowirat,CSW21,403,495,24,92,6,37.42
+Thacha Koowirat,Soramet M.,CSW21,503,452,22,122,9,43.41
+Soramet M.,Thacha Koowirat,CSW21,397,413,26,72,0,31.15
+Josh Sokol,Cesar Del Solar,NWL20,409,345,28,86,0,26.93
+Josh Sokol,Rick Julian,NWL20,420,326,24,83,8,31.08
+Cheryl Allen-Munley,Josh Sokol,NWL20,467,374,35,88,0,26.56
+Jeremy Hall,Josh Sokol,NWL20,318,462,26,76,0,30.0
+Josh Sokol,Glenn Filzer,NWL20,377,323,36,70,4,21.74
+Dustin Dean,Josh Sokol,NWL20,369,474,27,90,2,31.22
+Josh Sokol,Skyler Lutz,NWL20,481,291,34,83,0,27.25
+Niel Gan,Quinn James,CSW21,467,490,27,82,2,35.44
+Dustin Dean,Ryan Fischer,NWL23,299,446,29,88,0,25.69
+Ryan Fischer,Jeff Cook,NWL23,404,371,25,74,0,31.0
+Marty Gold,Ryan Fischer,NWL23,457,332,27,89,4,29.22
+Ryan Fischer,Mack Meller,NWL23,418,464,27,95,6,34.62
+Ryan Fischer,Stefan Fatsis,NWL23,381,425,32,90,0,25.19
+Ryan Fischer,Joe Weinike,TWL06,508,431,31,203,0,34.37
+Richard Popper,Ryan Fischer,NWL23,450,469,23,97,0,39.96
+Andy Hoang,Ryan Fischer,NWL23,567,272,28,89,0,36.65
+Ryan Fischer,Dustin Dean,NWL23,346,405,32,92,0,33.79
+Andy Hoang,Ryan Fischer,NWL23,410,378,30,86,0,27.72
+Ryan Fischer,Jeff Cook,NWL23,432,469,27,91,0,33.37
+Clay Daniel,Ryan Fischer,NWL23,459,438,26,89,0,34.5
+Ryan Fischer,Mack Meller,NWL23,364,437,27,104,0,29.67
+Ryan Fischer,Barry Keith,NWL23,388,499,31,82,0,28.61
+Ryan Wee,Marlon Prudencio,CSW21,460,393,31,86,2,31.83
+Chris Vicary,Ryan Wee,CSW21,476,497,30,248,0,32.43
+Ryan Wee,Marlon Prudencio,CSW21,440,516,26,95,0,36.77
+Neil Rowley,Ryan Wee,CSW21,357,489,23,83,0,36.78
+Ryan Wee,Nakul Prabhu,CSW21,444,434,30,81,0,29.27
+Becky Dyer,Ryan Wee,CSW21,409,559,25,96,4,38.72
+Noah Slatkoff,Jeremy Hildebrand,CSW21,532,578,32,80,0,38.19
+Joey Krafchick,Orry Swift,NWL23,452,453,31,84,0,29.19
+Matthew Tunnicliffe,Adam Logan,CSW21,429,449,25,86,14,35.12
+Heidi Robertson,Chris Ten Den,CSW21,509,334,31,89,2,30.23
+Matthew Tunnicliffe,Tobey Roland,CSW21,401,400,31,78,0,29.2
+Eric Harshbarger,Ryan Fischer,NWL23,450,322,32,83,0,27.43
+Matthew Tunnicliffe,Bradley Whitmarsh,CSW21,382,372,28,73,0,26.93
+Cyril Umebiye,Olumide Oyejide,CSW21,520,479,23,88,0,43.43
+Olumide Oyejide,Cyril Umebiye,CSW21,0,0,23,108,11,30.86
+Cyril Umebiye,Olumide Oyejide,CSW21,353,339,34,71,0,20.35
+Olumide Oyejide,Cyril Umebiye,CSW21,370,425,25,80,0,31.8
+Cyril Umebiye,Olumide Oyejide,CSW21,425,413,25,92,0,33.52
+Olumide Oyejide,Cyril Umebiye,CSW21,448,452,26,90,0,34.62
+Cyril Umebiye,Olumide Oyejide,CSW21,0,0,24,85,0,36.65
+Olumide Oyejide,Cyril Umebiye,CSW21,439,471,28,90,0,34.78
+Cyril Umebiye,Olumide Oyejide,CSW21,0,0,22,80,7,38.0
+Olumide Oyejide,Cyril Umebiye,CSW21,398,428,30,76,4,29.93
+Josh Sokol,Matthew Tunnicliffe,CSW21,383,390,27,83,0,28.63
+Elie Dangoor,Ryan Wee,CSW21,310,344,42,72,-8,15.57
+Ryan Wee,Rik Kennedy,CSW21,382,343,28,106,4,25.89
+Ryan Wee,Paul Allan,CSW21,468,478,24,89,5,39.42
+David Webb,Ryan Wee,CSW21,402,453,25,94,6,34.2
+Ryan Wee,Chris Vicary,CSW21,404,393,27,77,0,29.52
+Ryan Wee,Orla Judge,CSW21,616,380,24,112,6,41.5
+Ryan Wee,Ellie Mackin,CSW21,404,407,28,80,0,28.96
+Tim Weiss,Joshua Castellano,CSW21,408,513,24,131,7,38.38
+Joshua Castellano,Sam Rosin,CSW21,668,404,24,140,5,44.67
+Sam Rosin,Joshua Castellano,CSW21,499,365,26,82,4,33.23
+Ben Schoenbrun,Joshua Castellano,CSW21,378,420,23,88,6,34.7
+Nitya Chagti,Joshua Castellano,CSW21,523,452,30,84,4,38.64
+Joshua Castellano,Ben Schoenbrun,CSW21,536,458,20,99,18,49.7
+Joshua Castellano,Matthew O'Connor,CSW21,505,409,25,94,2,41.08
+Robert Linn,Joshua Castellano,CSW21,438,548,23,94,2,42.87
+Joshua Castellano,Sam Rosin,CSW21,415,462,26,82,0,33.73
+Rob Robinsky,Joshua Castellano,CSW21,380,438,24,80,6,34.08
+Tim Weiss,Joshua Castellano,CSW21,466,432,24,89,8,37.42
+Joshua Castellano,Nitya Chagti,CSW21,622,281,34,94,0,26.56
+Ben Schoenbrun,Joshua Castellano,CSW21,465,336,25,83,6,32.04
+Matthew O'Connor,Joshua Castellano,CSW21,377,480,25,88,7,34.28
+Joshua Castellano,Robert Linn,CSW21,523,487,24,94,0,42.08
+Sam Rosin,Joshua Castellano,CSW21,458,471,23,78,10,40.39
+Joshua Castellano,Rob Robinsky,CSW21,569,353,24,89,5,38.42
+Joshua Castellano,Tim Weiss,CSW21,504,347,25,86,3,34.04
+Josh Sokol,Niel Gan,CSW21,381,517,26,87,5,34.54
+Niel Gan,Matthew Tunnicliffe,CSW21,545,507,24,88,5,43.83
+Kyle Fellahi,Terry Kang,CSW21,508,510,26,91,10,43.6
+Bradley Whitmarsh,Kyle Fellahi,CSW21,506,503,29,113,0,34.79
+Skyler Lutz,Jeremy Hall,NWL23,407,382,28,98,0,28.18
+Ryan Fischer,Eric Harshbarger,NWL23,400,496,29,140,0,32.36
+Samuel Kaplan,Jamie McCune,NWL23,590,398,28,185,0,35.29
+Samuel Kaplan,Mark Miller,NWL23,415,436,25,70,2,34.04
+Noah Slatkoff,Heidi Robertson,CSW21,455,465,26,80,0,35.38
+Edwin Roth,Samuel Kaplan,NWL23,445,337,27,77,4,28.96
+Dustin Dean,Samuel Kaplan,NWL23,341,515,28,78,0,34.59
+Joey Krafchick,Orry Swift,NWL23,375,365,27,82,2,27.41
+Samuel Kaplan,Kevin Nai,NWL23,424,407,26,102,0,31.96
+Scott Appel,Samuel Kaplan,NWL23,376,432,28,114,0,28.86
+Richard Popper,Samuel Kaplan,NWL23,426,323,26,76,0,28.81
+Orry Swift,Joey Krafchick,NWL23,481,386,22,86,8,39.41
+Joey Krafchick,Orry Swift,NWL23,503,416,27,86,0,34.04
+Orry Swift,Joey Krafchick,NWL23,317,398,25,85,3,28.6
+Jason Li,Zachary Ansell,WOW24,477,450,26,91,4,35.65
+Zachary Ansell,Jeffrey Nelson,WOW24,405,219,30,68,0,20.8
+Zachary Ansell,Deen Hergott,WOW24,410,369,27,86,5,28.85
+Jimoh Abdulmumin,John Aiyedun,CSW21,399,474,26,88,8,33.58
+John Aiyedun,Jimoh Abdulmumin,CSW21,489,363,29,108,0,30.86
+Jimoh Abdulmumin,John Aiyedun,CSW21,0,0,23,88,0,34.91
+John Aiyedun,Jimoh Abdulmumin,CSW21,489,454,26,88,0,36.27
+Jimoh Abdulmumin,John Aiyedun,CSW21,0,0,21,100,0,36.55
+John Aiyedun,Jimoh Abdulmumin,CSW21,0,0,25,95,6,35.0
+Joey Krafchick,Orry Swift,NWL23,0,0,24,78,0,34.17
+Orry Swift,Joey Krafchick,NWL23,0,0,20,66,10,33.37
+Joey Krafchick,Orry Swift,NWL23,0,0,25,80,0,31.04
+Joey Krafchick,Orry Swift,NWL23,0,0,21,95,12,36.85
+Jimoh Abdulmumin,John Aiyedun,CSW21,0,0,28,94,0,38.6
+Orry Swift,Joey Krafchick,NWL23,0,0,25,83,11,30.12
+Orry Swift,Joey Krafchick,NWL23,0,0,20,90,5,36.05
+John Aiyedun,Jimoh Abdulmumin,CSW21,380,366,25,80,0,29.84
+Jimoh Abdulmumin,John Aiyedun,CSW21,0,0,26,80,0,30.42
+John Aiyedun,Jimoh Abdulmumin,CSW21,467,426,21,92,7,42.52
+Jimoh Abdulmumin,John Aiyedun,CSW21,0,0,20,86,13,39.58
+John Aiyedun,Jimoh Abdulmumin,CSW21,458,362,27,82,3,34.15
+Jimoh Abdulmumin,John Aiyedun,CSW21,500,329,23,82,12,36.04
+John Aiyedun,Jimoh Abdulmumin,CSW21,0,0,24,86,10,41.64
+Noah Slatkoff,Bradley Whitmarsh,CSW21,391,410,24,82,4,33.38
+Noah Slatkoff,Travis Chaney,CSW21,460,438,24,94,8,37.42
+Noah Slatkoff,Rodney Judd,CSW21,396,398,35,96,0,31.19
+Noah Slatkoff,Karl Higby,CSW21,471,502,26,94,0,37.42
+Quinn James,Noah Slatkoff,CSW21,483,354,27,83,5,31.0
+Bradley Whitmarsh,Noah Slatkoff,CSW21,409,462,27,87,5,36.77
+Noah Slatkoff,Quinn James,CSW21,455,444,23,92,10,39.09
+Noah Slatkoff,George Macaulay,CSW21,406,375,25,84,5,31.24
+Jeremy Hildebrand,Matthew Tunnicliffe,CSW21,368,335,26,77,0,27.04
+Orry Swift,Joey Krafchick,NWL23,0,0,17,97,0,39.25
+Orry Swift,Joey Krafchick,NWL23,0,0,21,84,6,35.65
+Robin Pollock Daniel,Jackson Smylie,NWL23,396,558,25,113,0,38.16
+Jackson Smylie,Michael Fagen,NWL23,414,369,26,75,2,30.12
+Christopher Sykes,Jackson Smylie,NWL23,295,519,22,104,10,37.0
+Jackson Smylie,Agnes Kramer,NWL23,498,340,26,90,0,36.16
+Hank Hees,Jackson Smylie,NWL23,401,414,27,86,0,30.19
+Jackson Smylie,Hank Hees,NWL23,407,400,27,91,5,29.89
+Craig Rowland,Jackson Smylie,NWL23,399,414,24,74,4,33.88
+Jackson Smylie,Yaacov Barak,NWL23,460,356,26,86,0,31.38
+Christopher Sykes,Jackson Smylie,NWL23,519,438,26,79,8,36.81
+Matt Canik,Jackson Smylie,NWL23,441,474,25,80,0,36.6
+Jackson Smylie,Froilan Mendoza,NWL23,468,339,27,100,0,34.88
+Jackson Smylie,Anna Miransky,NWL23,382,373,30,76,0,25.17
+Skyler Lutz,Jackson Smylie,NWL23,334,473,34,90,0,32.19
+Carl Madden,Jackson Smylie,NWL23,417,384,31,90,0,25.84
+Gregg Bigourdin,Jackson Smylie,NWL23,467,370,29,89,0,28.86
+Robin Pollock Daniel,Jackson Smylie,NWL23,359,424,28,83,2,27.96
+Jackson Smylie,Yaacov Barak,NWL23,396,472,30,78,0,28.93
+Jackson Smylie,Deen Hergott,NWL23,461,502,24,104,12,43.52
+Jackson Smylie,Michael Fagen,NWL23,378,447,27,92,6,30.56
+Daniel Stock,Jackson Smylie,NWL23,408,316,28,98,2,25.86
+Jackson Smylie,Linda Oliva,NWL23,620,253,34,89,0,25.68
+Noah Slatkoff,Jason Carney,CSW21,436,397,23,88,8,36.22
+Josh Sokol,Noah Slatkoff,CSW21,293,379,37,85,0,23.43
+Travis Chaney,Noah Slatkoff,CSW21,337,480,25,84,0,32.68
+Noah Slatkoff,Jason Keller,CSW21,424,414,23,83,6,36.43
+Mpakaboari Jack,Noah Slatkoff,CSW21,432,459,25,93,5,35.64
+Mark Francillon,Noah Slatkoff,CSW19,479,448,23,104,3,40.3
+Noah Slatkoff,Jason Broersma,CSW21,500,362,26,92,11,37.28
+Vera Bigall,Noah Slatkoff,CSW21,325,404,27,70,5,29.77
+Noah Slatkoff,Stefan Rau,CSW21,447,340,26,79,2,34.52
+Robert Linn,Noah Slatkoff,CSW21,443,342,27,118,0,29.07
+Euclid Hui,Noah Slatkoff,CSW21,434,411,26,83,5,32.5
+Noah Slatkoff,Rick Blakeway,CSW21,593,349,26,96,0,36.23
+Jason Broersma,Matthew Tunnicliffe,CSW21,476,394,34,90,2,30.38
+Matthew Tunnicliffe,Rodney Judd,CSW21,441,363,32,80,0,29.5
+Josh Sokol,Matthew Tunnicliffe,CSW21,369,391,29,92,0,26.21
+Josh Sokol,Matthew Tunnicliffe,CSW21,542,387,27,74,0,34.41
+Matthew Tunnicliffe,Noah Slatkoff,CSW21,434,420,25,90,0,34.16
+Matthew Tunnicliffe,Stefan Rau,CSW21,441,399,29,76,0,32.43
+Matthew Tunnicliffe,Jason Keller,CSW21,549,461,25,83,5,40.4
+Tony Leah,Matthew Tunnicliffe,CSW21,362,488,26,102,6,32.69
+Matthew Tunnicliffe,Samuel Anikoh,CSW21,482,394,25,107,5,35.04
+Jason Carney,Matthew Tunnicliffe,CSW21,412,491,26,105,0,38.64
+Matthew Tunnicliffe,Stefan Rau,CSW21,469,401,26,98,0,33.46
+Mark Francillon,Matthew Tunnicliffe,CSW21,299,449,27,68,0,27.7
+Matthew Tunnicliffe,Travis Chaney,CSW21,433,303,27,99,0,27.26
+Karl Higby,Matthew Tunnicliffe,CSW21,507,535,24,122,5,43.42
+Matthew Tunnicliffe,Bradley Whitmarsh,CSW21,607,438,26,80,0,40.19
+Robert Linn,Matthew Tunnicliffe,CSW21,445,474,27,93,5,34.04
+Josh Sokol,Matthew Tunnicliffe,CSW21,412,575,29,96,3,38.14
+Quinn James,Matthew Tunnicliffe,CSW21,303,408,26,67,4,27.35
+Matthew Tunnicliffe,Mpakaboari Jack,CSW21,490,339,25,78,0,33.16
+Matthew Tunnicliffe,Stewart Houten,CSW21,465,398,24,86,5,35.96
+Matthew Tunnicliffe,George Macaulay,CSW21,482,379,26,79,8,33.12
+Anne Goldstein,Matthew Tunnicliffe,CSW21,356,427,29,94,2,27.0
+Josh Sokol,Matthew Tunnicliffe,CSW21,369,391,29,92,0,26.21
+Josh Sokol,Quinn James,CSW21,414,456,24,85,2,36.25
+Christian Oktavius,Adiyta Putra Difa,CSW21,375,503,27,98,2,32.52
+Jeremy Khoo,Ryan Wee,CSW21,448,457,35,77,3,27.59
+Ryan Wee,Jeremy Khoo,CSW21,523,402,29,110,8,33.96
+Ryan Wee,Jeremy Khoo,CSW21,463,527,25,95,0,39.6
+Skyler Lutz,Judy Cole,NWL23,331,339,25,75,9,26.8
+Skyler Lutz,Jackson Smylie,NWL23,334,473,34,90,0,32.19
+Judy Cole,Skyler Lutz,NWL23,428,293,27,70,0,26.7
+Keith Savage,Joey Krafchick,NWL23,425,325,25,74,3,30.0
+Joey Krafchick,Steven DiNapoli,NWL23,514,349,27,95,0,31.96
+Yong Jian Rong,Brian Po,CSW21,534,463,24,98,10,41.54
+Brian Po,Muhd Rastra Teguh,CSW21,507,400,28,80,2,32.39
+Napat V.,Brian Po,CSW21,512,406,24,76,2,38.25
+Ernest So,Brian Po,CSW21,561,402,29,92,5,37.61
+Brian Po,Euclid Hui,CSW21,393,448,32,82,0,29.52
+Liew Kian Boon,Brian Po,CSW21,524,438,25,94,0,38.48
+Euclid Hui,Brian Po,CSW21,421,463,26,86,0,34.0
+Nigel Richards,Brian Po,CSW21,502,429,23,92,6,40.48
+Brian Po,Napat V.,CSW21,391,387,25,78,5,31.12
+Brian Po,Fadlan Satria,CSW21,499,350,31,68,0,27.39
+Brian Po,Ricky Purmono,CSW21,471,375,26,76,0,32.54
+Euclid Hui,Brian Po,CSW21,463,445,25,90,5,36.32
+Nopparus,Brian Po,CSW21,384,412,28,89,0,28.43
+Brian Po,Liew Kian Boon,CSW21,415,399,27,96,2,30.15
+Nalia Arshiya,Brian Po,CSW21,239,603,35,88,0,26.94
+Brian Po,Alex Tan,CSW21,549,303,26,86,5,32.77
+Ernest So,Brian Po,CSW21,467,393,29,102,5,33.64
+Adiyta Putra Difa,Christian Oktavius,CSW21,398,494,27,149,6,36.15
+Timi1,Timi2,CSW21,554,535,23,122,2,47.35
+Timi1,Timi2,CSW21,642,507,22,167,0,52.23
+Joey Krafchick,Eric Harshbarger,NWL23,381,379,25,94,4,30.4
+Skyler Lutz,Anna Miransky,NWL23,314,342,32,84,2,26.4
+Jason Li,Jackson Smylie,NWL23,418,446,27,84,0,32.0
+Jackson Smylie,Jason Li,NWL23,508,359,27,106,0,37.42
+Jason Li,Jackson Smylie,NWL23,392,494,25,126,4,35.44
+Jackson Smylie,Jason Li,NWL23,385,494,27,84,0,32.56
+Jason Li,Jackson Smylie,NWL23,370,303,26,77,6,25.88
+Euclid Hui,Brian Po,CSW21,416,361,26,80,5,33.72
+Brian Po,Carson Ip,CSW21,387,369,28,80,4,27.0
+Douglas Tsang,Brian Po,CSW21,374,531,25,88,6,36.2
+Brian Po,Paul Christensen,CSW21,508,314,25,86,5,32.88
+Yvonne Cheng,Brian Po,CSW21,286,507,33,90,3,27.31
+David Gibson,Ryan Fischer,TWL06,397,470,27,93,12,36.92
+Ryan Fischer,Joe Edley,TWL06,432,421,24,90,0,35.54
+Joey Krafchick,Ryan Fischer,TWL06,395,398,24,77,8,33.04
+John Luebkemann,Ryan Fischer,TWL06,298,493,32,78,0,26.35
+Andy Hoang,Ryan Fischer,TWL06,277,492,32,87,0,28.33
+Ryan Fischer,Dustin Dean,NWL23,458,393,26,82,6,32.73
+Dustin Dean,Ryan Fischer,NWL23,443,436,26,85,8,33.81
+Ryan Fischer,Clay Daniel,NWL23,488,351,27,81,0,31.07
+Barry Keith,Ryan Fischer,NWL23,360,429,36,79,0,21.92
+Thomas Reinke,Charles Reinke,CSW21,464,426,26,86,6,36.24
+Matthew Tunnicliffe,Charles Reinke,CSW21,496,414,25,96,5,41.17
+Charles Reinke,Matthew O'Connor,CSW21,462,431,24,95,5,37.21
+Charles Reinke,Matthew Tunnicliffe,CSW21,469,395,26,92,8,37.64
+Charles Reinke,Ben Schoenbrun,CSW21,467,362,24,84,0,34.54
+Charles Reinke,Mohammad Sulaiman,CSW21,427,407,32,104,2,28.84
+Thomas Reinke,Charles Reinke,CSW21,530,406,24,126,8,39.0
+Charles Reinke,Stefan Rau,CSW21,485,374,29,79,0,29.62
+Sammy Okosagah,Charles Reinke,CSW21,389,547,24,94,0,42.13
+Laurie Cohen,Charles Reinke,CSW21,368,428,26,74,0,30.62
+Charles Reinke,Yukiko Loritz,CSW21,501,388,30,82,0,31.28
+Charles Reinke,Noel Livermore,CSW21,516,334,31,82,0,27.42
+Matthew O'Connor,Charles Reinke,CSW21,427,367,31,79,0,27.87
+Charles Reinke,Winter,CSW21,432,360,27,82,0,29.33
+Jason Keller,Charles Reinke,CSW21,342,423,31,74,0,26.37
+Charles Reinke,Jason Broersma,CSW21,454,446,30,149,0,36.17
+Bradley Whitmarsh,Charles Reinke,CSW21,405,456,26,93,2,33.12
+Emmanuel Egbele,Charles Reinke,CSW21,342,428,30,72,0,25.67
+Charles Reinke,Chris Lipe,CSW21,628,239,26,90,0,33.35
+Femi Awowade,Charles Reinke,CSW21,489,433,27,113,4,36.65
+Charles Reinke,Jason Ubeika,CSW21,421,409,27,78,7,30.74
+Lukeman Owolabi,Charles Reinke,CSW21,441,338,30,78,5,27.86
+Charles Reinke,Joshua Castellano,CSW21,385,437,26,110,5,31.81
+Brian Bowman,Charles Reinke,CSW21,460,351,33,102,0,24.58
+Charles Reinke,Conrad Bassett-Bouchard,CSW21,421,414,28,82,0,32.74
+Mike Johnson,Charles Reinke,CSW21,427,541,33,101,5,37.03
+Charles Reinke,Mark Francillon,CSW21,461,299,30,91,0,26.93
+Matthew Tunnicliffe,Charles Reinke,CSW21,436,426,23,86,4,37.48
+Charles Reinke,Rasheed Balogun,CSW21,430,431,29,88,2,29.69
+Mpakaboari Jack,Charles Reinke,CSW21,349,470,30,85,2,34.04

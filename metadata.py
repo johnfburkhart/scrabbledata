@@ -124,6 +124,6 @@ def save_metadata_to_csv(data: pd.DataFrame, filename: str) -> None:
 
 if __name__ == "__main__":
     games = load_games("game_list.txt")
-    game_metadata = scrape_games(games, limit=300)
+    game_metadata = scrape_games(games, limit=1000)
     save_metadata_to_csv(game_metadata, "games_metadata.csv")
     print("Scraping complete and data saved to games_metadata.csv.")
