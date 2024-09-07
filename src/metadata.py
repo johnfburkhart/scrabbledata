@@ -76,28 +76,42 @@ def extract_scores(driver: webdriver.Firefox) -> list[int]:
     
     return cleaned_scores
 
+def extract_game_url(url: str) -> str:
+    id = url.split("=")[1]
+    return id
+
 def extract_game_metadata(driver: webdriver.Firefox, game_url: str, meta_data: dict) -> None:
     """Extract metadata for a single game and update the meta_data dictionary."""
+    
+    # Navigate to game url and click the last game to show relavent info
     driver.get(game_url)
     click_last_game(driver)
 
+    # Add player names and respective scores
     names, scores = extract_names_scores(driver)
     meta_data["PlayerOne"].append(names[0])
     meta_data["PlayerTwo"].append(names[1])
     meta_data["ScorePlayerOne"].append(scores[0])
     meta_data["ScorePlayerTwo"].append(scores[1])
 
+    # Add game dictionary
     meta_data["Dictionary"].append(extract_dictionary(driver))
+    # Add number of turn
     meta_data["NumTurns"].append(extract_num_turns(driver))
 
+    # Add score statistics
     scores = extract_scores(driver)
     meta_data["MaxScore"].append(max(scores))
     meta_data["MinScore"].append(min(scores))
     meta_data["MeanScore"].append(round(np.mean(scores),2))
+    
+    # Add game id from the url suffix
+    meta_data["GameID"].append(extract_game_url(game_url))
 
-def scrape_games(games: list[str], limit: int = 50) -> pd.DataFrame:
+def scrape_games(games: list[str]) -> pd.DataFrame:
     """Scrape metadata for a list of games and return as a DataFrame."""
     meta_data = {
+        "GameID": [],
         "PlayerOne": [],
         "PlayerTwo": [], 
         "Dictionary": [],
@@ -111,8 +125,11 @@ def scrape_games(games: list[str], limit: int = 50) -> pd.DataFrame:
 
     driver = setup_driver()
     try:
-        for game in games[:limit]:
+        counter = 1
+        for game in games:
             extract_game_metadata(driver, game, meta_data)
+            print(f"######### Games scraped: {counter}/{len(games)} ###########")
+            counter += 1
     finally:
         driver.quit()
 
@@ -123,7 +140,7 @@ def save_metadata_to_csv(data: pd.DataFrame, filename: str) -> None:
     data.to_csv(filename, index=False)
 
 if __name__ == "__main__":
-    games = load_games("game_list.txt")
-    game_metadata = scrape_games(games, limit=1000)
-    save_metadata_to_csv(game_metadata, "games_metadata.csv")
-    print("Scraping complete and data saved to games_metadata.csv.")
+    games = load_games("data/game_list.txt")
+    game_metadata = scrape_games(games)
+    save_metadata_to_csv(game_metadata, "data/games_metadata.csv")
+    print("Scraping complete and data saved to data/games_metadata.csv.")
